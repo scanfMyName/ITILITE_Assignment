@@ -1,0 +1,52 @@
+{
+  "trend": [
+    {
+      "id": 1,
+      "trendlocation": "Agra, India",
+      "trendname": "#Taj",
+      "trendtweetcount": 3900
+    },
+    {
+      "id": 2,
+      "trendlocation": "Karnataka, India",
+      "trendname": "#Karnataka Election",
+      "trendtweetcount": 121
+    },
+    {
+      "id": 3,
+      "trendlocation": "Karnataka, India",
+      "trendname": "#CongoToCong",
+      "trendtweetcount": 12123
+    },
+    {
+      "id": 4,
+      "trendlocation": "Silicon Valley",
+      "trendname": "#AI Replace Human",
+      "trendtweetcount": 3234
+    },
+    {
+      "id": 5,
+      "trendlocation": "Taiwan",
+      "trendname": "#SemiConductor Crisis",
+      "trendtweetcount": 2323
+    },
+    {
+      "id": 6,
+      "trendlocation": "New1",
+      "trendname": "#TrendNew",
+      "trendtweetcount": 2767
+    },
+    {
+      "id": 7,
+      "trendlocation": "New2",
+      "trendname": "#TrendNew",
+      "trendtweetcount": 2132
+    },
+    {
+      "id": 8,
+      "trendlocation": "New3",
+      "trendname": "#TrendNew",
+      "trendtweetcount": 2677
+    }
+  ]
+}

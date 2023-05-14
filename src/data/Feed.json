@@ -1,0 +1,69 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "verified": false,
+      "avatarurl": "https://res.cloudinary.com/dp1kzy3fs/image/upload/v1683992711/Test/profileImage_zogw6i.jpg",
+      "name": "Mayank Garg",
+      "time": "1h",
+      "text": "Hope you’re having a great day 1 2023! One thing’s for sure, it won’t be boring. ❤️❤️",
+      "image": "",
+      "view": 9230,
+      "like": 20,
+      "comment": 5320,
+      "retweet": 220
+    },
+    {
+      "id": 2,
+      "verified": false,
+      "avatarurl": "https://yt3.googleusercontent.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s88-c-k-c0x00ffffff-no-rj",
+      "name": "Mayank Garg",
+      "time": "3h",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur",
+      "image": "",
+      "view": 0,
+      "like": 0,
+      "comment": 0,
+      "retweet": 0
+    },
+    {
+      "id": 3,
+      "verified": false,
+      "avatarurl": "https://res.cloudinary.com/dp1kzy3fs/image/upload/v1683992711/Test/profileImage_zogw6i.jpg",
+      "name": "Mayank Garg",
+      "time": "5h",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit 🔥🔥🔥. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga 🤣🤣🤣 praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum 😎😎😎",
+      "image": "https://pbs.twimg.com/media/Fhb73UZXEAINOS5?format=jpg&name=small",
+      "view": 0,
+      "like": 0,
+      "comment": 0,
+      "retweet": 0
+    },
+    {
+      "id": 4,
+      "verified": true,
+      "avatarurl": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg",
+      "name": "elonmusk",
+      "time": "3h",
+      "text": "Sometimes it’s just better to make pizza at home",
+      "image": "",
+      "view": 9890,
+      "like": 3232,
+      "comment": 5665,
+      "retweet": 9879
+    },
+    {
+      "id": 5,
+      "verified": true,
+      "avatarurl": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_400x400.jpg",
+      "name": "YouTube",
+      "time": "8h",
+      "text": "to celebrate all of our faves of 2022, here’s a thread of *your* picks for creators of the year!! 🥲",
+      "image": "https://pbs.twimg.com/media/FlU5z9GaEAI07Ay?format=jpg&name=medium",
+      "view": 7213,
+      "like": 32,
+      "comment": 344,
+      "retweet": 4554
+    }
+  ]
+}
